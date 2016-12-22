@@ -8,7 +8,7 @@ var RealPort = 3389
 var SrcIP = '58.30.28.131'
 var SrcPort = 8098
 
-// do you remenber?
+// do you remember?
 var SrcServer = net.createServer(function(socket){
     console.log("socket is conneted")
     var DstClientsocket = net.connect(RealPort, RealIP, function(){
