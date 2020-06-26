@@ -2,8 +2,10 @@
  * Created by lq on 2016/9/3.
  */
 
-var Async =require('async')
+
 var fs = require('fs')
+var Async =require('async')
+
 
 Async.waterfall(
     [function(cb){
