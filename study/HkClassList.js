@@ -47,7 +47,7 @@ var HkClassNameList = {
 }
 
 // 外部导出变量
-module.exports.HkClassIdList = HkClassIdList;
+module.exports.HkClassIdList = HkClassIdList
 module.exports.HkClassNameList = HkClassNameList
 
 
