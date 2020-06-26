@@ -46,7 +46,7 @@ var HkClassNameList = {
     "00000024":	"17 计算机高职（ 2）"
 }
 
-// 外部导出变量test2
+// 外部导出变量test3
 module.exports.HkClassIdList = HkClassIdList
 module.exports.HkClassNameList = HkClassNameList
 
